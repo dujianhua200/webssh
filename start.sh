@@ -1,6 +1,6 @@
 #!/bin/bash
 export FILE_PATH=${FILE_PATH:-'./webssh'}     # 安装目录
-export PORT=${PORT:-'8080'}                    # web端口
+export PORT=${PORT:-'23889'}                    # web端口
 export USER=${USER:-''}                        # 登录用户名，可以为空
 export PASS=${PASS:-''}                        # 登录密码，可以为空
 
